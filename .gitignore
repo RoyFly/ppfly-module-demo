@@ -1,7 +1,11 @@
 .DS_Store
 
-# Editor directories and files
+# idea
 .idea
-.iml
+**/target
+**/*.iml
+**/src/main/webapp/WEB-INF/classes
+**/src/main/webapp/WEB-INF/lib
+# vscode
 .vscode
 /logs/
